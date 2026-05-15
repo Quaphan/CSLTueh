@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Session_04\" />
     <Folder Include="Session_09\" />
     <Folder Include="Session_08\" />
     <Folder Include="Session_07\" />
