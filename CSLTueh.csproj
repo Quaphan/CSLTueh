@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Session_04\" />
+    <Folder Include="Session_09\" />
+    <Folder Include="Session_08\" />
+    <Folder Include="Session_07\" />
+    <Folder Include="Session_06\" />
+    <Folder Include="Session_03\" />
+    <Folder Include="Session_02\" />
+    <Folder Include="Session_01\" />
+  </ItemGroup>
+
+</Project>
