@@ -5,14 +5,12 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSLTueh.Session_05.Exercises_5</StartupObject>
+    <StartupObject>CSLTueh.Session_07.P2Exercises_1</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Session_09\" />
     <Folder Include="Session_08\" />
-    <Folder Include="Session_07\" />
-    <Folder Include="Session_06\" />
     <Folder Include="Session_03\" />
     <Folder Include="Session_02\" />
     <Folder Include="Session_01\" />
