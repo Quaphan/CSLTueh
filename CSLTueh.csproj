@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <Folder Include="Session_09\" />
-    <Folder Include="Session_08\" />
     <Folder Include="Session_03\" />
     <Folder Include="Session_02\" />
     <Folder Include="Session_01\" />
